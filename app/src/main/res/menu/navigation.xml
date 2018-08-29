@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <item
+    android:id="@+id/navigation_store"
+    android:icon="@drawable/ic_store_black_24dp"
+    android:title="store" />
+
+    <item
+        android:id="@+id/navigation_delivery"
+        android:icon="@drawable/ic_directions_bike_black_24dp"
+        android:title="delivery" />
+
+    <item
+        android:id="@+id/navigation_plans"
+        android:icon="@drawable/ic_playlist_add_black_24dp"
+        android:title="plans" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="@string/title_profile" />
+
+</menu>
